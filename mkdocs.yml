@@ -4,7 +4,7 @@
 # bug 已修复 ../
 
 site_name: 回形针测试 MkDocs
-site_url: https://paperclip.tk/mkdocs_test/
+site_url: https://paperclip-tk.github.io/mkdocs_test/
 repo_url: https://github.com/paperclip-tk/mkdocs_test
 
 theme:
